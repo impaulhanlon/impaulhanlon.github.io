@@ -1,4 +1,4 @@
-[PDF CV](https://docs.google.com/document/d/1UMFCQ6GUhaCC3LzCOsF9oZyvhBCvcx4UVWRRKSpnmwY/export?format=pdf)
+[Download CV as PDF](https://docs.google.com/document/d/1UMFCQ6GUhaCC3LzCOsF9oZyvhBCvcx4UVWRRKSpnmwY/export?format=pdf)
 
 ## Welcome to GitHub Pages
 
